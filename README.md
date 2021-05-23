@@ -1,6 +1,6 @@
 # Boston_House_Price_Prediction
 Linear Regression- ANN DL Project
-
+*******************************************************************************
 Dataset description(13 features, target: medv):
 
 crim: per capita crime rate by town.
@@ -31,9 +31,12 @@ lstat: lower status of the population (percent).
 
 medv: median value of owner-occupied homes in \$1000s.
 
+**********************************************************************************
+
 Coding Platform: Google Colab with GPU as runtime.
 
 Deployment : Conda environment with python 3.8 and Flask web framework
 
 Tested Application on: PyCharm version 2021.1.1
 
+***********************************************************************************
